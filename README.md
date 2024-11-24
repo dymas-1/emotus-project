@@ -1,2 +1,2 @@
 # emotus-project
-Project mobile app emotus
+Project mobile app 
